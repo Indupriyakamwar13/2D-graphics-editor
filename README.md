@@ -22,4 +22,5 @@ A simple 2D Graphics Editor written in C using a 2D character array for drawing 
    ```bash
    gcc project.c -o project
 2. Run:
-./project
+   ```bash
+   ./project
