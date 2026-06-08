@@ -13,10 +13,6 @@ A simple 2D Graphics Editor written in C using a 2D character array for drawing 
 - Modify Objects
 - Display Picture
 
-## Technologies Used
-- C Programming Language
-- Standard C Libraries
-
 ## How to Run
 1. Compile:
    ```bash
